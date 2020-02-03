@@ -1,4 +1,5 @@
 # TABLE OF CONTENTS
+
 Number | Content
 -----|-----
 1 | [Introductory HTML and JavaScript](./class-01.md)
