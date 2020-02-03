@@ -1,12 +1,7 @@
-# Code 201 Reading Notes
-### *Here are the 🔑 notes that are essential in your education in the 201 class.*
-
-
 # TABLE OF CONTENTS
-
-Read Number | Content
+Number | Content
 -----|-----
-1 | (Introductory HTML and JavaScript)[./class-01.md]
+1 | [Introductory HTML and JavaScript](./class-01.md)
 2 |
 3 |
 4 |
