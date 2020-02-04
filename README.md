@@ -3,7 +3,7 @@
 Number | Content
 -----|-----
 1 | [Introductory HTML and JavaScript](./class-01.md)
-2 |
+2 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./class-02.md)
 3 |
 4 |
 5 | 
