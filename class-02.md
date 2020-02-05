@@ -5,11 +5,13 @@ There are 2 types of markups in HTML :
 - Semantic :-  add extra information.
 
 # CSS
+
  - You can create rules that control how u present the html elements.
 - CSS rule are made up by a selector and a declaration.
  - CSS selectors are case sensitive.
  
  # BASIC JAVASCRIPT
+ 
  - Javascript is case sensitive.
  - Variables are used to e store data types i.e numbers, booleans, strings etc.
 
